@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-11-21T03:31:27.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W5pCK_F79otvQtvw1Gtq" version="22.1.3" type="device">
+  <diagram name="Страница — 1" id="EIuL48LAk6W-UodjuBAX">
+    <mxGraphModel dx="956" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-1" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff9b1;fillStyle=auto;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-2" value="Command" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a6ccf5;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-3" value="Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ff9d48;strokeColor=#BF8A00;" vertex="1" parent="1">
+          <mxGeometry y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-4" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#be88c7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-5" value="Read model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#93d275;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-6" value="External System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ea94bb;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-7" value="Comment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f6f8;" vertex="1" parent="1">
+          <mxGeometry y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
