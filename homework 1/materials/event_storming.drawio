@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T18:51:27.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hE6zAaUEf-cF_MCCqy8E" version="22.1.3" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-21T19:21:12.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XGS8vx7PR5X0hIYYBbQe" version="22.1.3" type="device">
   <diagram name="Страница — 1" id="EIuL48LAk6W-UodjuBAX">
-    <mxGraphModel dx="-220" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="-1080" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,16 +67,16 @@
         <mxCell id="MikG4YNewmSnIjtrSvaZ-291" value="Поиск Воркеров" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
           <mxGeometry width="840" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MikG4YNewmSnIjtrSvaZ-307" value="Система рассчёта скидок" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ea94bb;strokeColor=#ae4132;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-307" value="Система рассчёта стоимости" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ea94bb;strokeColor=#ae4132;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
           <mxGeometry x="490" y="100" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MikG4YNewmSnIjtrSvaZ-57" value="Общие траты клиента" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#93d275;strokeColor=#82b366;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-57" value="Информация о клиенте и воркере" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#93d275;strokeColor=#82b366;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
           <mxGeometry x="380" y="100" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MikG4YNewmSnIjtrSvaZ-56" value="Рассчитать скидку" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a6ccf5;strokeColor=#6c8ebf;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-56" value="Рассчитать стоимость работ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a6ccf5;strokeColor=#6c8ebf;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
           <mxGeometry x="600" y="100" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MikG4YNewmSnIjtrSvaZ-54" value="Рассчитана&lt;br&gt;финальная стоимость заказа после скидки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ff9d48;strokeColor=#BF8A00;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-54" value="Рассчитана&lt;br&gt;финальная стоимость заказа" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ff9d48;strokeColor=#BF8A00;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-292">
           <mxGeometry x="710" y="100" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MikG4YNewmSnIjtrSvaZ-46" value="" style="group" vertex="1" connectable="0" parent="MikG4YNewmSnIjtrSvaZ-292">
@@ -91,10 +91,8 @@
         <mxCell id="MikG4YNewmSnIjtrSvaZ-49" value="Найден воркер на заказ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ff9d48;strokeColor=#BF8A00;" vertex="1" parent="MikG4YNewmSnIjtrSvaZ-46">
           <mxGeometry x="110" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MikG4YNewmSnIjtrSvaZ-188" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MikG4YNewmSnIjtrSvaZ-292" source="MikG4YNewmSnIjtrSvaZ-49" target="MikG4YNewmSnIjtrSvaZ-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="MikG4YNewmSnIjtrSvaZ-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MikG4YNewmSnIjtrSvaZ-292" source="MikG4YNewmSnIjtrSvaZ-49" target="MikG4YNewmSnIjtrSvaZ-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MikG4YNewmSnIjtrSvaZ-289" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3660" y="1694" width="1310" height="306" as="geometry" />
