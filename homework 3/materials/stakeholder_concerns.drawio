@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" modified="2023-12-05T05:46:30.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Zfolk7YMOdSkxmVBhW2S" version="22.1.5" type="device">
+  <diagram name="Страница — 1" id="RtTuCax2mVFighaAc_5L">
+    <mxGraphModel dx="2049" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="500" width="800" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="710" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="500" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="290" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1021" y="80" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="920" width="800" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="710" width="800" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="800" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="800" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-1" value="Топ-менеджмент" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-2" value="Релизный цикл в 1 месяц для основной системы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-6" value="Тестирование большого количества гипотез по отсеву кандидатов с быстрым релизным циклом (1 неделя)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1080" y="980" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SJo0h-cumJHZCCUbWyZf-9">
+          <mxGeometry width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-3" value="Стейкхолдер" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="SJo0h-cumJHZCCUbWyZf-9">
+          <mxGeometry x="20" y="20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-4" value="Менее важный консёрн" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="SJo0h-cumJHZCCUbWyZf-9">
+          <mxGeometry x="140" y="20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-5" value="Более важный консёрн" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SJo0h-cumJHZCCUbWyZf-9">
+          <mxGeometry x="260" y="20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-8" value="Легенда" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SJo0h-cumJHZCCUbWyZf-9">
+          <mxGeometry y="120" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-10" value="Разработчики&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-11" value="Клиенты" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="740" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-12" value="Воркеры" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="740" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-13" value="Менеджеры" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="950" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-14" value="Работники склада" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="110" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-15" value="Админы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="320" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-16" value="Юристы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="530" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-17" value="Финотдел" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="530" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-20" value="Стабильная система, которую легко фиксить в случае сбоев" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-24" value="Ожидаемое поведение системы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="740" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-26" value="Скрыть систему ставок" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="950" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-27" value="Ожидаемое поведение системы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="110" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-28" value="Простота мониторинга" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="320" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-29" value="Соблюдение правовых норм" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="530" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-30" value="Внедрение новых способов списания денег для клиентов." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-33" value="Ожидаемое поведение системы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="740" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-34" value="Своевременные уведомления" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="740" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-35" value="Рост нагрузки с 10 заказов в день до 10 заказов в минуту" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="950" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-37" value="Списание денег с клиентов раз в месяц (вместо раза в неделю)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="530" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SJo0h-cumJHZCCUbWyZf-39" value="Надёжность хранения финансовой информации" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="730" y="530" width="150" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
